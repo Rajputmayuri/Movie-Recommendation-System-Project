@@ -6,19 +6,6 @@ The application features a modern UI, emoji-based feedback, and allows users to 
 📥Movie-Recommendation-System Streamlit App Link :
 https://movie-recommendation-system-project-ncwwuhp5kfajfmprycfwte.streamlit.app/
 
-🚀 Features
-
-🔍 Search movies by title
-
-🎯 Content-based + Collaborative filtering recommendations
-
-🎨 Interactive Streamlit UI with colors & emojis
-
-📊 Recommendation strength visualization
-
-⬇️ Download recommended movies as CSV
-
-☁️ Deployment-ready (Render / Streamlit Cloud)
 
 🧠 Technologies Used
 
